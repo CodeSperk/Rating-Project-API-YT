@@ -1,6 +1,6 @@
 ## [Rating App](https://codesperk.github.io/random-joke-generator/)
 
-[![Project Image](https://i.ibb.co/R7hVw0r/opinion1.png)](https://codesperk.github.io/random-joke-generator/)
+[![Project Image](https://i.ibb.co/R7hVw0r/opinion1.png)](https://codesperk.github.io/rating-project/)
 
 ## Key Features
 
@@ -13,6 +13,6 @@
 
    
 
-[![Project Image](https://i.ibb.co/WFDKvxf/opinion2.png)](https://codesperk.github.io/random-joke-generator/)
+[![Project Image](https://i.ibb.co/WFDKvxf/opinion2.png)](https://codesperk.github.io/rating-project/)
 
 
